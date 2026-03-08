@@ -1,0 +1,6 @@
+*.py
+.python-version
+*.csv
+*.json
+*.jsonl
+*.toml
